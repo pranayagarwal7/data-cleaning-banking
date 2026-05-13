@@ -19,7 +19,7 @@ Faker.seed(42)
 np.random.seed(42)
 random.seed(42)
 
-OUTPUT_DIR = "/mnt/user-data/outputs/banking_dataset"
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ─────────────────────────────────────────────
