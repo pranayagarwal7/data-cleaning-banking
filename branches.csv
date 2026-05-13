@@ -1,0 +1,51 @@
+branch_id,branch_name,city,state,region,zip_code,phone,manager_name,open_since,num_employees,is_active
+BR001,New York Downtown Branch,new york,NY,Northeast,84311,804.233.2181,DANIEL WAGNER,2015-05-11,,FALSE
+BR002,Los Angeles Main Branch,Los Angeles,CA,West,03979,000-000-0000,Christopher Bernard,NULL,94.0,0
+BR003,Chicago South Branch,Chicago,IL,Midwest,44619,+1-916-315-5940,Jamie Arnold  ,1989-05-04,73.0,Active
+BR004,Houston Downtown Branch,Houston,TX,South,82898,+1-165-993-1034,Holly Wood,2016-08-09,115.0,Active
+BR005,Phoenix South Branch,Phoenix,AZ,West,27961,+11241592832,Renee Morales,1994-05-26,26.0,TRUE
+BR006,Philadelphia Central Branch,Philadelphia,PA,Northeast,09176,000-000-0000,Kimberly Burgess,20-06-2019,13.0,False
+BR007,San Antonio East Branch,San Antonio,TX,South,56656,,rebecca henderson,"January 24, 1996",56.0,FALSE
+BR008,San Diego Uptown Branch,San Diego,CA,West,08827,669-878-4801,Aaron Bowen,1991-11-10,81.0,True
+BR009,Dallas South Branch,Dallas,TX,South,94830,282-781-4893,Brian Cox DVM,20/02/1990,42.0,TRUE
+BR010,San Jose Central Branch,san jose,CA,West,40807,4034911718,Theresa Martin,07-03-2019,69.0,TRUE
+BR011,Austin East Branch,Austin,TX,South,69664,000-000-0000,Alex Spencer,,117.0,FALSE
+BR012,Jacksonville Main Branch,Jacksonville,FL,South,77629,(501) 603-1051,Cindy Anderson  ,08/02/1988,75.0,1
+BR013,Fort Worth West Branch,Fort Worth,TX,South,75348,001.773.8763,Scott Brown,02-11-25,36.0,No
+BR014,Columbus East Branch,columbus,OH,Midwest,86150,141.066.5133,Shannon  Jones,23-04-2013,35.0,Inactive
+BR015,Charlotte North Branch,Charlotte,NC,South,72633,,Stephanie Martin  ,"April 06, 2003",115.0,No
+BR016,Indianapolis Main Branch,Indianapolis,IN,Midwest,00783,(247) 746-8723,kevin shaw,01/21/2009,14.0,True
+BR017,San Francisco Downtown Branch,San Francisco,CA,West,70116,808-312-1913,Laura Riley,10/21/2018,120.0,TRUE
+BR018,Seattle West Branch,seattle,WA,West,05710,,Elizabeth  Stewart,10/08/2017,32.0,False
+BR019,Denver Main Branch,Denver,N/A,Mountain,99049,,Shirley Suarez,10/28/2008,13.0,Active
+BR020,Nashville Downtown Branch,Nashville,TN,South,48935,327-384-9808,Brittney Campbell,22-10-2003,96.0,FALSE
+BR021,Oklahoma City South Branch,Oklahoma City,OK,South,28108,0012537487,Mandy Green,,77.0,No
+BR022,El Paso North Branch,El Paso,TX,South,97655,+1-486-880-1128,Eric Nolan,17/12/1995,108.0,True
+BR023,Washington South Branch,Washington,DC,Northeast,05730,+18332158692,TIM PATTON,21/04/2018,92.0,True
+BR024,Las Vegas Central Branch,Las Vegas,NV,West,54465,153-422-1607,Jennifer Ramirez  ,31-05-1997,61.0,True
+BR025,Louisville Main Branch,Louisville,KY,South,09600,+10013458868,Richard Graham,25-07-2001,106.0,0
+BR026,Memphis North Branch,Memphis,TN,South,67534,+1-569-734-0608,Travis Mccall,03/26/2003,107.0,Active
+BR027,Portland Main Branch,Portland,OR,West,82179,N/A,Roy Torres,2017-12-22,9.0,FALSE
+BR028,Baltimore North Branch,Baltimore,MD,Northeast,28050,7993577738,Nicole Chambers,18-03-1995,103.0,0
+BR029,Milwaukee West Branch,Milwaukee,WI,Midwest,29945,+1-820-503-7917,Janet Ross,05-03-1990,,0
+BR030,Albuquerque East Branch,Albuquerque,NM,Mountain,19843,(140) 196-3287,Victoria Larson,10-11-12,73.0,0
+BR031,Tucson West Branch,Tucson,AZ,West,99493,+1-998-568-7277,Billy Mitchell,04-10-2014,46.0,1
+BR032,Fresno Uptown Branch,Fresno,CA,West,36115,N/A,Ross Price,1992-10-22,31.0,False
+BR033,Sacramento East Branch,Sacramento,CA,West,77057,001.509.9670,Jeffrey Johnson,2020-08-09,89.0,No
+BR034,Mesa North Branch,Mesa,AZ,West,44558,146.297.2980,DAVID MURPHY,"December 26, 1995",85.0,Active
+BR035,Kansas City Central Branch,Kansas City,MO,Midwest,60099,256-246-4170,Christina Smith,18/07/2019,11.0,No
+BR036,Atlanta Central Branch,Atlanta,GA,South,20474,000-000-0000,Carla Collins,17/09/2011,59.0,TRUE
+BR037,Omaha Central Branch,Omaha,NE,Midwest,76350,3496663193,Lindsay Martinez,20/05/2008,39.0,0
+BR038,Colorado Springs Downtown Branch,Colorado Springs,CO,Mountain,74678,+18589651850,Tyler Reid,1987-11-19,58.0,False
+BR039,Raleigh Main Branch,Raleigh,NC,South,60759,N/A,Sandra Miller,"October 12, 2000",99.0,Inactive
+BR040,Long Beach North Branch,Long Beach,CA,West,59588,N/A,Robert  Peterson,10/20/2020,73.0,Active
+BR041,Virginia Beach Main Branch,Virginia Beach,VA,South,78640,,Alan Phillips,"January 03, 2002",111.0,1
+BR042,Minneapolis Downtown Branch,Minneapolis,MN,Midwest,53506,001-734-9957,David Martinez,2000-09-12,36.0,Yes
+BR043,Tampa Uptown Branch,Tampa,FL,South,25743,(618) 523-3749,Eric Erickson,94-10-12,100.0,TRUE
+BR044,New Orleans South Branch,New Orleans,US,South,17092,N/A,Vincent King,01/27/2017,103.0,False
+BR045,Arlington Downtown Branch,Arlington,TX,South,63117,616-371-9022,Bailey Duran DDS  ,"September 04, 2014",18.0,0
+BR046,Wichita Central Branch,Wichita,KS,Midwest,81558,000-000-0000,Christine Clark,"February 12, 1997",98.0,0
+BR047,Aurora North Branch,Aurora,CO,Mountain,87064,,David Mann  ,25-07-2010,32.0,1
+BR048,Bakersfield East Branch,Bakersfield,CA,West,92642,4133493618,Ricky Larson,"March 05, 2008",35.0,Inactive
+BR049,Anaheim Central Branch,Anaheim,CA,West,75108,271.874.6488,Lindsey Johnson,95-12-01,100.0,0
+BR050,Santa Ana Central Branch,Santa Ana,CA,West,30506,(189) 990-4902,Julie Ortiz,02/26/1999,99.0,1
